@@ -17,20 +17,20 @@
 // }
 
 
-// var a=parseInt(prompt("enter the number"))
-// if(a%2==0){
-//     alert("positive")
-// }
-// else if(a%1==0){
-//     alert("negative")
-// }
-// else{
-//     alert("neutral")
-// }
-var a=1;
-do{
-    console.log(a)
-    a++;
+var a=parseInt(prompt("enter the number"))
+if(a%2==0){
+    alert("positive")
 }
+else if(a%1==0){
+    alert("negative")
+}
+else{
+    alert("neutral")
+}
+// var a=1;
+// do{
+//     console.log(a)
+//     a++;
+// }
 
-while(a<=10)
+// while(a<=10)
