@@ -1,10 +1,11 @@
-//no arg and no return
+//1.no arg and no return
 // function fun(){
 //     console.log("hi")
 // }
 // fun()
 
-//with arg and no return
+
+//2.with arg and no return
 // function Demo(a)
 // {
 //     console.log(a)
@@ -24,7 +25,16 @@
 // Demo(a,b)
 
 
- //with arg and with return
+//3.no arg with return 
+//function Demo(){
+
+   // return 10+10;
+
+//}
+//console.log(Demo())
+
+
+ //4.with arg and with return
 //function Demo (a){
     //return(a+a)
 //}
@@ -33,6 +43,7 @@
 //console.log(num)
 //1 ways
 //console.log(Demo(10))
+
 
 
 
